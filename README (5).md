@@ -7,7 +7,7 @@
 
 I work in retail and I'm moving into data. In this project I tried to look at a retailer the way a data team would: clean the data, store it in a database, answer real business questions, try to improve a forecast, and share the results in a report and a dashboard.
 
-**Quick links:** [Read the report (PDF)](Summary_report.pdf) · [SQL queries](retail_queries.sql) · [Main analysis notebook](Report_Analysis.ipynb)
+**Quick links:** [Read the report (PDF)]() · [SQL queries](retail_queries.sql) · [Main analysis notebook](Report_Analysis.ipynb)
 
 > All the data here is **synthetic**. I generated it to look like a UK retailer with 6 stores selling food and clothing. It is not real company data.
 
