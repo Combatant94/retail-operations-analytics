@@ -49,25 +49,19 @@ Sales follow a strong weekly pattern (weekdays sell about 3x more than weekends)
 
 | File | What it does |
 |---|---|
-| `1_products_cleaning.ipynb` | Cleans the products table |
-| `2_sales_cleaning.ipynb` | Cleans the sales table |
-| `3_food_supply_cleaning.ipynb` | Cleans the food supply table and loads the clean data into MySQL |
-| `4_report_analysis.ipynb` | SQL queries, charts and the forecast test |
-| `data/` | Raw and clean CSV files |
-| `powerbi_data/` | Query results used by the dashboard |
-| `report/Retail_Operations_Analysis.pdf` | The written report in plain English |
-| `dashboard/` | Power BI file (.pbix), PDF and screenshots |
-
+| `products_cleaning.ipynb` | Step 1: cleans the products table |
+| `sales_cleaning.ipynb` | Step 2: cleans the sales table |
+| `food_supply_cleaning.ipynb` | Step 3: cleans the food supply table |
+| `Report_Analysis.ipynb` | Step 4: connects to MySQL, runs the SQL, makes the charts and the forecast test |
+| `retail_queries.sql` | All my SQL queries, one section per business question |
+| `Summary_report.pdf` | The written report, in plain English |
 ## Tools
 
 Python (pandas, matplotlib, statsmodels), MySQL, SQL (joins, CTEs, CASE WHEN), Power BI (DAX measures, relationships, slicers, conditional formatting), Jupyter.
 
-## How to run it
+## Note on the data
 
-1. Install MySQL and create a database.
-2. Run the cleaning notebooks in order (1 to 3). Notebook 3 loads the tables into MySQL.
-3. Run `4_report_analysis.ipynb`. It asks for your MySQL password when it connects, so no password is saved in the code.
-4. Open `dashboard/retail_operation.pbix` in Power BI Desktop.
+The CSV files aren't included to keep the repo small. Every notebook shows its output, so you can follow the work without running anything.
 
 ## Contact
 
