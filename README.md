@@ -17,7 +17,9 @@ This project answers those questions using the data.
 
 ## Dashboard
 <img width="832" height="470" alt="Screenshot 2026-11-14 at 12 44 34" src="https://github.com/user-attachments/assets/522f6176-3c8c-4f2f-b0a6-9a94a66626b2" />
-![Forecasting page](dashboard/dashboard_page2.png)
+<img width="831" height="466" alt="Screenshot 2026-11-14 at 12 46 33" src="https://github.com/user-attachments/assets/540cb090-57ee-4cfb-a780-afa29feb5f34" />
+<img width="837" height="466" alt="Screenshot 2026-11-14 at 12 47 06" src="https://github.com/user-attachments/assets/2c7fdd4b-aba3-4cf8-bb49-4a058cb3d6ff" />
+
 
 The Overview page has a store filter: the cards and the waste chart change with the store you pick. The forecast and profit charts always show all 6 stores, so you can compare them.
 
