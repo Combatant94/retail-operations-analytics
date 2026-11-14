@@ -16,8 +16,7 @@ I work in retail and want to move into a data role. I asked a Lead Data & Insigh
 This project answers those questions using the data.
 
 ## Dashboard
-
-![Overview page](dashboard/dashboard_page1.png)
+<img width="832" height="470" alt="Screenshot 2026-11-14 at 12 44 34" src="https://github.com/user-attachments/assets/522f6176-3c8c-4f2f-b0a6-9a94a66626b2" />
 ![Forecasting page](dashboard/dashboard_page2.png)
 
 The Overview page has a store filter: the cards and the waste chart change with the store you pick. The forecast and profit charts always show all 6 stores, so you can compare them.
