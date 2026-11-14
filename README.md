@@ -90,7 +90,7 @@ Raw CSV files  →  Python cleaning  →  MySQL  →  SQL analysis  →  Forecas
 | [`food_supply_cleaning.ipynb`](food_supply_cleaning.ipynb) | Step 3: cleans the food supply table and fixes stock numbers that didn't add up |
 | [`Report_Analysis.ipynb`](Report_Analysis.ipynb) | Step 4: connects to MySQL, runs the SQL, makes the charts and the forecast test |
 | [`retail_queries.sql`](retail_queries.sql) | All my SQL queries, one section per business question |
-| [`Summary_report.pdf`](Summary_report.pdf) | The full written report, in plain English |
+| [`Summary_report.pdf`](Retail_Operations_Analysis.pdf) | The full written report, in plain English |
 
 The CSV files aren't included to keep the repo small. Every notebook shows its output, so you can follow the work without running anything.
 
